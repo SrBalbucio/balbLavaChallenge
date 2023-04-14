@@ -1,0 +1,12 @@
+commands:
+  setlobby: "§aLobby setado com sucesso!"
+  setarena: "§aArena setada com sucesso!"
+event:
+  message: "§a§lEVENTO §f- §e§lLAVA CHALLENGE\n§aUm novo evento de LavaChallenge foi iniciado!"
+  entrar: "§a§lCLIQUE AQUI §apara entrar no evento!"
+  notHasGame: "§vNão há eventos rolando neste momento!"
+  hasGame: "§aVocê será teleportado quando o evento se iniciar!"
+  starting: "§aO evento está começando!"
+  cancelled: "§cEvento cancelado!"
+game:
+  win: "§aVocê ganhou o evento!"

@@ -1,0 +1,20 @@
+#balbLavaChallenge - v1.0
+#Site: https://plugins.balbucio.xyz/details.jsp?plugin=balbLavaChallenge
+#Discord: https://balbucio.xyz/discord
+
+
+#Permissões:
+# blava.commands - Permissão para usar os comandos
+
+#Atualizar automaticamente sempre que possível?
+autoupdate: true
+
+#De quanto em quanto tempo deve ocorrer um Evento de LavaChallenge?
+tempo: 30 #minutos
+
+#Quanto tempo até a partida iniciar?
+countdown: 1 #minutos
+
+#Qual é o mínimo de jogadores para um evento começar?
+min: 2
+

@@ -1,0 +1,11 @@
+name: LavaChallenge
+version: '${project.version}'
+main: balbucio.lavachallenge.Main
+authors: [ Sr_Balbucio ]
+description: Plugin de LavaChallenge
+website: https://plugins.balbucio.xyz
+commands:
+  lavasetup:
+    description: "Comando de Setup"
+  lavajoin:
+    description: "Comando para entrar no Evento"
